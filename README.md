@@ -24,5 +24,4 @@ The project consists of two Python scripts:
 
 ## Demo Images
 
-![demo1](/screenshots/Screenshot_1.png)
-![demo2](/screenshots/Screenshot_2.png)
+![demo](/demo.gif)
